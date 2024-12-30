@@ -1,6 +1,5 @@
 # Hi 👋, I'm Harsha Vardhan Katuri
 
-![Semiconductor Background](https://www.gstatic.com/webp/gallery/1.jpg)
 
 ---
 
@@ -15,8 +14,6 @@
 - 📄 [View My Resume](https://drive.google.com/file/d/1WzaGcWay9OyyQzjsnWBmt-yMvklx6Mvz/view?usp=drivesdk)
 
 ---
-
-![Semiconductor Dynamic Visual](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 ---
 
