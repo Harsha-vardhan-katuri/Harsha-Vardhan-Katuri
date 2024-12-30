@@ -2,7 +2,9 @@
 
 ### 🚀 A Passionate Embedded Engineer from India
 
-![Semiconductor Background](https://cdn.pixabay.com/photo/2017/07/23/07/25/circuit-board-2532143_1280.jpg)
+---
+
+![Semiconductor Dynamic Visual](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 ---
 
@@ -44,18 +46,18 @@
 
 ---
 
-## Dynamic Background Example:
-
-> _While GitHub Markdown doesn't support CSS animations, you can include a dynamic element by embedding a GIF!_
-
-![Semiconductor GIF](https://media.giphy.com/media/l1J9vRFS2CBXSVA9a/giphy.gif)
-
----
-
 ## Stats:
 
 ![Harsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsha-vardhan-katuri&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-vardhan-katuri&layout=compact&theme=radical)
+
+---
+
+## Semiconductor Animation:
+
+> While HTML animations are not directly supported, you can use SVG or GIFs for dynamic effects.
+
+![Semiconductor GIF](https://media.giphy.com/media/LT9G9McB4b3CZ1iVWA/giphy.gif)
 
 ---
