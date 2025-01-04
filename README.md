@@ -1,6 +1,6 @@
-# Hi there, I'm Harsha Vardhan Katuri 👋
-
-Welcome to my GitHub profile! I'm a passionate Embedded developer with a strong background in embedded systems, firmware development, and IoT solutions. I am skilled in assembling microcontroller systems and customizing firmware. I enjoy innovating and modeling IoT applications, transforming creative ideas into functional, practical designs, and improving workflows to enhance performance in embedded projects effectively.
+<h1 align="center">Hi 👋, I'm Harsha Vardhan Katuri</h1>
+<h3 align="center">A passionate Embedded Engineer from India</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsha-vardhan-katuri" alt="harsha-vardhan-katuri" /></a> </p>
 ## 📞 Contact Information
 - **Phone:** 9676227794
 - **Email:** [katuriharshavardhan369@gmail.com](mailto:katuriharshavardhan369@gmail.com)
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate Embedded developer with a strong 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/katuri-harsha-vardhan-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/katuri-harsha-vardhan-" height="30" width="40" /></a>
 </p>
-- 📄 Know about my experiences(https://drive.google.com/file/d/1EgmfuGBHxtSKwr78kRJqZwNCFp_8zNQL/view?usp=drivesdk)
+- 📄 Know about my experiences  (https://drive.google.com/file/d/1EgmfuGBHxtSKwr78kRJqZwNCFp_8zNQL/view?usp=drivesdk)
 
 ## 🛠️ Skills and Technologies
 ### Programming Languages
