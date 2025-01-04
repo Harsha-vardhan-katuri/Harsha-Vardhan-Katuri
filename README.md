@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsha Vardhan Katuri</h1>
 <h3 align="center">A passionate Embedded Engineer from India</h3>
+![Semiconductor Chip](https://raw.githubusercontent.com/<username>/<repository>/main/semiconductor.png)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsha-vardhan-katuri" alt="harsha-vardhan-katuri" /></a> </p>
 
 ## 📞 Contact Information
