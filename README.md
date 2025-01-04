@@ -12,12 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong backgroun
 ## 🛠️ Skills and Technologies
 
 ### Programming Languages
-- **C**
-- **C++**
-- **Embedded C**
-- **Data Structures**
-- **Python**
-- **SQL**
+- **C**, **C++**, **Embedded C**, **Data Structures**, **Python**, **SQL**
 
 ### Embedded Systems
 - **Microcontroller Architectures**
@@ -75,13 +70,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong backgroun
 ### Narayana Junior College
 **Intermediate in MPC (June 2017 – April 2019)**
 - Grade Obtained: 9.94
-
-## 💡 Projects
-### IoT Based Weather Reporting System
-- Founded a monitoring solution to measure and transmit real-time weather data, updating every 5 seconds efficiently and reliably.
-- Enhanced data accessibility by integrating Thing Speak, slashing retrieval time by 60% for 100+ users, improving efficiency.
-- Overhauled data transmission logic, achieving 99.9% accuracy in environmental readings and significantly improving reliability.
-- Revitalized IoT design techniques, supporting sensor interfacing for up to 10 different environmental parameters seamlessly.
 
 ## 🏆 Key Achievements and Certifications
 
