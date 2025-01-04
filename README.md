@@ -1,11 +1,12 @@
 # Hi there, I'm Harsha Vardhan Katuri 👋
 
-Welcome to my GitHub profile! I'm a fresher with expertise in embedded systems, firmware development, and IoT solutions. I am skilled in assembling microcontroller systems and customizing firmware. I enjoy innovating and modeling IoT applications, transforming creative ideas into functional, practical designs, and improving workflows to enhance performance in embedded projects effectively.
+![Dynamic Background](https://raw.githubusercontent.com/Harsha-vardhan-katuri/your-repo-name/main/dynamic-background.svg)
+
+Welcome to my GitHub profile! I'm a passionate developer with a strong background in embedded systems, firmware development, and IoT solutions. I am skilled in assembling microcontroller systems and customizing firmware. I enjoy innovating and modeling IoT applications, transforming creative ideas into functional, practical designs, and improving workflows to enhance performance in embedded projects effectively.
 
 ## 📞 Contact Information
 - **Phone:** 9676227794
 - **Email:** [katuriharshavardhan369@gmail.com](mailto:katuriharshavardhan369@gmail.com)
-- **GitHub Profile:** [Harsha-vardhan-katuri](https://github.com/Harsha-vardhan-katuri)
 - **LinkedIn:** [Harsha Vardhan Katuri](https://www.linkedin.com/in/harsha-vardhan-katuri-772166256/)
 
 ## 🛠️ Skills and Technologies
@@ -47,7 +48,7 @@ Welcome to my GitHub profile! I'm a fresher with expertise in embedded systems, 
 - **GitHub**
 - **Ubuntu**
 
-## 💼 Work Experience
+## 💼 Relevant Experience
 
 ### Embedded Systems Trainee, Vector India — Hyderabad
 **July 2023 – June 2024**
@@ -76,19 +77,6 @@ Welcome to my GitHub profile! I'm a fresher with expertise in embedded systems, 
 - Grade Obtained: 9.94
 
 ## 💡 Projects
-
-### [High-Precision BLE Motion Detection and Signal Analysis System](#)
-- Architected a high-efficiency C program to decode BLE packets, achieving 95% precision in extracting critical accelerometer data.
-- Distinguished iBeacon signals with a 70% faster classification process, enhancing system responsiveness and overall efficiency.
-- Synthesized motion analysis algorithms to detect movement within 100 milliseconds per packet, improving processing speed.
-- Reinforced data integrity through advanced error correction, improving packet reliability by 98%, ensuring robust transmission.
-
-### [Efficient Packetized Image Transmission and Error Correction System](#)
-- Engineered a C program for packetized image transfer, enhancing data throughput by 40% through segmentation techniques.
-- Implemented CRC-16/XMODEM error detection, ensuring 99% accuracy in maintaining packet integrity during data transmission.
-- Refined image reconstruction algorithms, cutting display latency by 30% and achieving 98% accuracy in rendering images.
-- Upgraded network communication protocols, reducing packet loss to under 2% and improving real-time delivery performance.
-
 ### IoT Based Weather Reporting System
 - Founded a monitoring solution to measure and transmit real-time weather data, updating every 5 seconds efficiently and reliably.
 - Enhanced data accessibility by integrating Thing Speak, slashing retrieval time by 60% for 100+ users, improving efficiency.
