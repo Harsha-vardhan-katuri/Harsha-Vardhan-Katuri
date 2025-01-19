@@ -27,13 +27,9 @@
 - Secured a 91% in the JEE Mains exam, outperforming thousands of candidates, and ranked as the top student in Intermediate, showcasing the ability to solve complex problems and deliver effective solutions.
 - **Certifications:**
   - [Linux Device Drivers Certification](https://engineers.inpyjama.com/learn/certificate/10217518-196174)  
-    ![Linux Device Drivers Certification](https://engineers.inpyjama.com/learn/certificate/10217518-196174)
   - [ARM Cortex-M Architecture Certification](https://engineers.inpyjama.com/learn/certificate/10217518-195277)  
-    ![ARM Cortex-M Architecture Certification](https://engineers.inpyjama.com/learn/certificate/10217518-195277)
   - [SQL Certification](https://courses.cognitiveclass.ai/certificates/2d803d1a3e374146b6a579b791c04fe0)  
-    ![SQL Certification](https://courses.cognitiveclass.ai/certificates/2d803d1a3e374146b6a579b791c04fe0)
-  - [Python Programming Certification](https://courses.cognitiveclass.ai/certificates/ff744a4f960545bab835641ae193310f)  
-    ![Python Programming Certification](https://courses.cognitiveclass.ai/certificates/ff744a4f960545bab835641ae193310f)
+  - [Python Programming Certification](https://courses.cognitiveclass.ai/certificates/ff744a4f960545bab835641ae193310f)
 
 
 ## 📈 GitHub Stats
