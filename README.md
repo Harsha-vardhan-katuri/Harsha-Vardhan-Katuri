@@ -13,16 +13,47 @@
 - 📄 Know about my experiences  (https://drive.google.com/file/d/1EgmfuGBHxtSKwr78kRJqZwNCFp_8zNQL/view?usp=drivesdk)
 
 ## 🛠️ Skills and Technologies
-### Programming Languages
-- **C**, **C++**, **Embedded C**, **Data Structures**, **Python**, **SQL**
-### Embedded Systems
-- **Microcontroller Architectures**, **Hardware Interfacing**, **Linux Internals**, **Device Drivers**
-### Networking Protocols and Concepts
-- **Socket Programming**, **I2C**, **SPI**, **UART**, **CAN**, **TCP/IP**, **RTOS**
-### System on Chips (SoCs)
-- **ESP8266**, **ARM Cortex-M**, **STM32**, **LPC2148**
-### Tools and Platforms
-- **Keil IDE**, **STM32CubeIDE**, **MATLAB**, **Git**, **GitHub**, **Ubuntu**
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="40" alt="gcc logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+</div>
+
+###
 ## 🏆 Key Achievements and Certifications
 - Secured a 91% in the JEE Mains exam, outperforming thousands of candidates, and ranked as the top student in Intermediate, showcasing the ability to solve complex problems and deliver effective solutions.
 - **Certifications:**
@@ -30,7 +61,6 @@
   - [ARM Cortex-M Architecture Certification](https://engineers.inpyjama.com/learn/certificate/10217518-195277)  
   - [SQL Certification](https://courses.cognitiveclass.ai/certificates/2d803d1a3e374146b6a579b791c04fe0)  
   - [Python Programming Certification](https://courses.cognitiveclass.ai/certificates/ff744a4f960545bab835641ae193310f)
-
 
 ## 📈 GitHub Stats
 ![Harsha Vardhan Katuri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsha-vardhan-katuri&show_icons=true&theme=radical)
