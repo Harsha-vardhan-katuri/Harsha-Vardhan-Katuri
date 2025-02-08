@@ -62,7 +62,14 @@
   - [SQL Certification](https://courses.cognitiveclass.ai/certificates/2d803d1a3e374146b6a579b791c04fe0)  
   - [Python Programming Certification](https://courses.cognitiveclass.ai/certificates/ff744a4f960545bab835641ae193310f)
 
-## 📈 GitHub Stats
-![Harsha Vardhan Katuri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsha-vardhan-katuri&show_icons=true&theme=radical)
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsha-vardhan-katuri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsha-vardhan-katuri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
