@@ -70,13 +70,6 @@
 </div>
 
 ###
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Harsha-vardhan-katuri/Harsha-vardhan-katuri/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
