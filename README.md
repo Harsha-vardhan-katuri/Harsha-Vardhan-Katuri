@@ -10,7 +10,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/katuri-harsha-vardhan-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/katuri-harsha-vardhan-" height="30" width="40" /></a>
 </p>
-- 📄 Know about my experiences  (https://drive.google.com/file/d/1vQNAyTse4Dy_LAaHVcr_Qrn7XRVrgiOM/view?usp=drive_link)
+- 📄 Know about my experiences  <a href="https://drive.google.com/file/d/1vQNAyTse4Dy_LAaHVcr_Qrn7XRVrgiOM/view?usp=drive_link" target="_blank">Resume Link</a>
+
 
 ## 🛠️ Skills and Technologies
 ###
