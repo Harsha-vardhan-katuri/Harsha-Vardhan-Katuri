@@ -58,11 +58,10 @@
 ## 🏆 Key Achievements and Certifications
 - Secured a 91% in the JEE Mains exam, outperforming thousands of candidates, and ranked as the top student in Intermediate, showcasing the ability to solve complex problems and deliver effective solutions.
 - **Certifications:**
-  - [Linux Device Drivers Certification](https://engineers.inpyjama.com/learn/certificate/10217518-196174)  
-  - [ARM Cortex-M Architecture Certification](https://engineers.inpyjama.com/learn/certificate/10217518-195277)  
   - [AI Internship Certification](https://drive.google.com/file/d/1UpvhADPt5PcDh8cPJHmpB-EW0ofB0OtL/view?usp=drive_link) 
   - [Python Programming Certification](https://courses.cognitiveclass.ai/certificates/ff744a4f960545bab835641ae193310f)
   - [Advanced Embedded Systems Certification](https://drive.google.com/file/d/1SYoyuzSusxvReLb4P6XKZbM8zdqWSdhv/view?usp=drive_link)
+  - [Linux Device Drivers Certification](https://engineers.inpyjama.com/learn/certificate/10217518-196174)   
 
 ###
 
