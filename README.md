@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harsha Vardhan Katuri</h1>
 <h3 align="center">A passionate Embedded Systems Engineer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsha-vardhan-katuri" alt="harsha-vardhan-katuri" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Harsha-vardhan-katuri&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## 📞 Contact Information
 - **Phone:** 9676227794
@@ -63,6 +64,12 @@
   - [Advanced Embedded Systems Certification](https://drive.google.com/file/d/1SYoyuzSusxvReLb4P6XKZbM8zdqWSdhv/view?usp=drive_link)
   - [Linux Device Drivers Certification](https://engineers.inpyjama.com/learn/certificate/10217518-196174)   
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Harsha-vardhan-katuri&theme=radical&hide_border=false&include_all_commits=false&count_private=false)                            ![](https://nirzak-streak-stats.vercel.app/?user=Harsha-vardhan-katuri&theme=radical&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-vardhan-katuri&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-contributor-stats.vercel.app/api?username=Harsha-vardhan-katuri&limit=5&theme=radical&combine_all_yearly_contributions=true)
 ###
 
 
