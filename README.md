@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/katuri-harsha-vardhan-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/katuri-harsha-vardhan-" height="30" width="40" /></a>
 </p>
-- 📄 Know about my experiences  <a href="https://1drv.ms/b/c/064cf396193f9178/EacxTFbBFwdJiakfEw5Jc3sBN_AfH0PXY_nhfnE9CNfQnQ?e=nHx8rc">Resume Link</a>
+- 📄 Know about my experiences  <a href="https://drive.google.com/file/d/1RtcbSbDprtNlOxsl2iugAj16bBV06pnX/view?usp=drive_link">Resume Link</a>
 
 
 ###
