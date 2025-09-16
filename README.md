@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsha Vardhan Katuri</h1>
 <h3 align="center">A passionate Embedded Systems Engineer from India</h3>
+<h4 align="center"> Currently working as a Firmware Engineer at Healthcubed India Pvt Ltd</h4>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Harsha-vardhan-katuri&theme=radical&no-frame=true&no-bg=false&margin-w=4)
