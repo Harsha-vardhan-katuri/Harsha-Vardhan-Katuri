@@ -15,12 +15,11 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/katuri-harsha-vardhan-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/katuri-harsha-vardhan-" height="30" width="40" /></a>
 </p>
-- 📄 Know about my experiences  <a href="https://drive.google.com/file/d/12LjzYqlAkPaz9xmxxNB0uoS1poytS9me/view?usp=drive_link">Resume Link</a> <br>
-- 🌐Check out my portfolio: [My Portfolio](https://portfolio-blush-eight-42.vercel.app/)
+- 📄 Know about my experiences  <a href="https://drive.google.com/file/d/12LjzYqlAkPaz9xmxxNB0uoS1poytS9me/view?usp=drive_link">Resume Link</a>
 
-
-
+- 🌐 Check out my portfolio: [My Portfolio](https://your-portfolio-link.com) 
 ###
+
 ## 🏆 Key Achievements and Certifications
 - Secured a 91% in the JEE Mains exam, outperforming thousands of candidates, and ranked as the top student in Intermediate, showcasing the ability to solve complex problems and deliver effective solutions.
 - **Certifications:**
