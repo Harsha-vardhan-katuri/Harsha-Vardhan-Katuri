@@ -16,7 +16,8 @@
 </p>
 - 📄 Know about my experiences  <a href="https://drive.google.com/file/d/12LjzYqlAkPaz9xmxxNB0uoS1poytS9me/view?usp=drive_link">Resume Link</a>
 
-- 🌐 Check out my portfolio: [My Portfolio](https://portfolio-blush-eight-42.vercel.app/) 
+- 🌐 Check out my portfolio: [My Portfolio](https://portfolio-blush-eight-42.vercel.app/)
+
 ###
 
 ## 🏆 Key Achievements and Certifications
