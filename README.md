@@ -29,9 +29,7 @@
   - [Linux Device Drivers Certification](https://engineers.inpyjama.com/learn/certificate/10217518-196174)   
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Harsha-vardhan-katuri&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Harsha-vardhan-katuri&theme=radical&hide_border=false)              ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-vardhan-katuri&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-contributor-stats.vercel.app/api?username=Harsha-vardhan-katuri&limit=5&theme=radical&combine_all_yearly_contributions=true)
 ###
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas! 
