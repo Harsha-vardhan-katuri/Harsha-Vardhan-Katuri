@@ -26,10 +26,11 @@
   - [AI Internship Certification](https://drive.google.com/file/d/1UpvhADPt5PcDh8cPJHmpB-EW0ofB0OtL/view?usp=drive_link) 
   - [Python Programming Certification](https://courses.cognitiveclass.ai/certificates/ff744a4f960545bab835641ae193310f)
   - [Advanced Embedded Systems Certification](https://drive.google.com/file/d/1SYoyuzSusxvReLb4P6XKZbM8zdqWSdhv/view?usp=drive_link)
-  - [Linux Device Drivers Certification](https://engineers.inpyjama.com/learn/certificate/10217518-196174)   
-
+  - [Linux Device Drivers Certification](https://engineers.inpyjama.com/learn/certificate/10217518-196174)
+  
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Harsha-vardhan-katuri&theme=radical&hide_border=false)              ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-vardhan-katuri&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=Harsha-vardhan-katuri&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-vardhan-katuri&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ###
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas! 
