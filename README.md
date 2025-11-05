@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsha Vardhan Katuri</h1>
-<h3 align="center">A passionate Embedded Systems Engineer from India</h3>
+<h3 align="center">A passionate Embedded/Firmware Engineer from India</h3>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Harsha-vardhan-katuri&theme=radical&no-frame=true&no-bg=false&margin-w=4)
