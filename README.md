@@ -4,6 +4,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Harsha-vardhan-katuri&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+## 📈 GitHub Contribution Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=Harsha-vardhan-katuri)
+
 # 💫 About Me:
 🔭 I’m currently working on<br>Firmware development for medical and IoT devices, including sensor interfacing, BLE communication, register-level programming, and embedded C/C++ development.<br><br>👯 I’m looking to collaborate on<br>Embedded systems, IoT solutions, BLE/LoRa-based communication projects, and hardware–firmware integration tasks.<br><br>🤝 I’m looking for help with<br>Optimizing firmware performance, low-power design techniques, and advanced debugging of real-time embedded systems.<br><br>🌱 I’m currently learning<br>Advanced BLE protocols, Linux for embedded systems, Docker for firmware-related applications, and scalable IoT architectures.<br><br>💬 Ask me about<br>Embedded C/C++, ESP32/ESP8266, Arduino, LPC2148, BLE, IoT protocols (UART, SPI, I2C, TCP/IP), sensor integration, and firmware debugging.<br><br>⚡ Fun fact<br>I enjoy turning raw sensor data into reliable real-world solutions through efficient firmware design.
 
