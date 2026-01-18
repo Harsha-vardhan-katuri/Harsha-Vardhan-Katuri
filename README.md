@@ -81,14 +81,12 @@ A showcase of my embedded engineering projects, including IoT solutions and firm
   <a href="https://github.com/Harsha-vardhan-katuri" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://portfolio-blush-eight-42.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://drive.google.com/file/d/1pACp9kZzcZYo4HuaHVCS2jDJx8cQUKrf/view?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?logo=googledrive&logoColor=white" alt="Resume" />
   </a>
 </div>
 
 I'm always open to discussing innovative embedded solutions, IoT projects, or potential collaborations. Feel free to reach out!
-
-- 📄 [Resume](https://drive.google.com/file/d/1pACp9kZzcZYo4HuaHVCS2jDJx8cQUKrf/view?usp=drivesdk)
 
 ---
 
