@@ -71,6 +71,8 @@ A showcase of my embedded engineering projects, including IoT solutions and firm
 
 ## 🌐 Connect with me:
 
+I'm always open to discussing innovative embedded solutions, IoT projects, or potential collaborations. Feel free to reach out!
+
 <div align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/harsha-vardhan-katuri-772166256/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -85,8 +87,6 @@ A showcase of my embedded engineering projects, including IoT solutions and firm
     <img src="https://img.shields.io/badge/Resume-4285F4?logo=googledrive&logoColor=white" alt="Resume" />
   </a>
 </div>
-
-I'm always open to discussing innovative embedded solutions, IoT projects, or potential collaborations. Feel free to reach out!
 
 ---
 
