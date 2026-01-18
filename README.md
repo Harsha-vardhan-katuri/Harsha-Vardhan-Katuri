@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Harsha Vardhan Katuri</h1>
-<h3 align="center">A passionate Embedded/Firmware Engineer from India</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&color=0e75b6&center=true&vCenter=true&width=500&height=50&lines=Embedded+Engineer+%7C+Firmware+Engineer" alt="Typing SVG" />
