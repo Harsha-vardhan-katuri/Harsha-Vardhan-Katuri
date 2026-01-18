@@ -14,6 +14,7 @@ This is a personal GitHub profile repository showcasing portfolio, skills, and a
 - Include GitHub activity section with comment markers
 - Add fun facts with emojis
 - Use centered connect badges
+- Include call-to-action message and resume/portfolio links in Connect section
 
 ### Content Updates
 - Add new certifications under "## 🏆 Key Achievements and Certifications" with Google Drive links

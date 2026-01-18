@@ -86,29 +86,9 @@ A showcase of my embedded engineering projects, including IoT solutions and firm
   </a>
 </div>
 
-## 🎓 Education
-
-- **B.Tech in Electronics and Communication Engineering**  
-  *Institution Name* (Year - Year)  
-  Relevant coursework: Embedded Systems, Digital Electronics, Microcontrollers
-
-- **Intermediate (12th Grade)**  
-  Achieved top rank with excellent performance in JEE Mains (91%)
-
-## 🏆 Key Achievements and Certifications
-- Secured a 91% in the JEE Mains exam, outperforming thousands of candidates, and ranked as the top student in Intermediate, showcasing the ability to solve complex problems and deliver effective solutions.
-- **Certifications:**
-  - [AI Internship Certification](https://drive.google.com/file/d/1UpvhADPt5PcDh8cPJHmpB-EW0ofB0OtL/view?usp=drive_link) 
-  - [Python Programming Certification](https://courses.cognitiveclass.ai/certificates/ff744a4f960545bab835641ae193310f)
-  - [Advanced Embedded Systems Certification](https://drive.google.com/file/d/1SYoyuzSusxvReLb4P6XKZbM8zdqWSdhv/view?usp=drive_link)
-  - [Linux Device Drivers Certification](https://engineers.inpyjama.com/learn/certificate/10217518-196174)
-  
-## 📬 Let's Connect!
-
 I'm always open to discussing innovative embedded solutions, IoT projects, or potential collaborations. Feel free to reach out!
 
 - 📄 [Resume](https://drive.google.com/file/d/1pACp9kZzcZYo4HuaHVCS2jDJx8cQUKrf/view?usp=drivesdk)
-- 🌐 [Portfolio](https://portfolio-blush-eight-42.vercel.app/)
 
 ---
 
