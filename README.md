@@ -2,7 +2,13 @@
 <h3 align="center">A passionate Embedded/Firmware Engineer from India</h3>
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&color=0e75b6&center=true&vCenter=true&width=500&height=50&lines=Embedded+Engineer+%7C+IoT+Specialist+%7C+Firmware+Developer" alt="Typing SVG" />
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Harsha-vardhan-katuri&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00C851?style=flat&logo=github&logoColor=white" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Location-India-FF6B35?style=flat&logo=google-maps&logoColor=white" alt="Location" />
 </div>
 
 ## 🏆 GitHub Trophies
@@ -36,6 +42,12 @@ I'm a dedicated **Embedded/Firmware Engineer** specializing in developing robust
 ### ⚡ Fun Fact
 I enjoy turning raw sensor data into reliable real-world solutions through efficient firmware design.
 
+---
+
+*"Code is poetry written in logic, and firmware is the heartbeat of innovation."*
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🌐 [My Portfolio Website](https://portfolio-blush-eight-42.vercel.app/)
@@ -43,62 +55,37 @@ A showcase of my embedded engineering projects, including IoT solutions and firm
 
 *(Check my repositories for detailed code implementations)*
 
+### 📊 GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+*(Activity updates automatically)*
+
 ## 🛠️ Skills & Technologies
 
-### Programming Languages
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-</p>
-
-### Embedded Systems & IoT
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.espressif.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" alt="esp32" width="40" height="40"/>
-  </a>
-</p>
-
-### Tools & Technologies
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-</p>
-
-### Web Technologies
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-</p>
+| Category | Technologies |
+|----------|-------------|
+| **Programming Languages** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> |
+| **Embedded Systems & IoT** | <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" width="40" height="40"/> |
+| **Tools & Technologies** | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/> |
+| **Web Technologies** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> |
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsha-vardhan-katuri-772166256/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:katuriharshavardhan369@gmail.com)
+
+<div align="center">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/harsha-vardhan-katuri-772166256/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:katuriharshavardhan369@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Harsha-vardhan-katuri" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://portfolio-blush-eight-42.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
 ## 🎓 Education
 
@@ -123,6 +110,15 @@ I'm always open to discussing innovative embedded solutions, IoT projects, or po
 
 - 📄 [Resume](https://drive.google.com/file/d/1pACp9kZzcZYo4HuaHVCS2jDJx8cQUKrf/view?usp=drivesdk)
 - 🌐 [Portfolio](https://portfolio-blush-eight-42.vercel.app/)
+
+---
+
+## 🎯 Fun Facts
+- ☕ Fueled by coffee and curiosity
+- 🔧 I can debug code faster than I can debug my sleep schedule
+- 🌟 Turning "impossible" into "I'm possible" one line of code at a time
+
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Harsha-vardhan-katuri&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
