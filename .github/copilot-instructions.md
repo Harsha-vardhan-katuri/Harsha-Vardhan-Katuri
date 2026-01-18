@@ -13,7 +13,7 @@ This is a personal GitHub profile repository showcasing portfolio, skills, and a
 - Use HTML tables for skills with inline badges
 - Include GitHub activity section with comment markers
 - Add fun facts with emojis
-- Use centered connect badges
+- Use left-aligned connect badges with spacing
 - Include call-to-action message in Connect section
 
 ### Content Updates
