@@ -92,7 +92,7 @@ I'm always open to discussing innovative embedded solutions, IoT projects, or po
 # 📊 GitHub Stats:
 <table align="center" style="border: none; border-collapse: collapse; background: transparent;">
   <tr>
-    <td align="center" style="border: none; background: transparent;">
+    <td align="center" style="border: none; background: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=Harsha-vardhan-katuri&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&bg_color=000000" alt="GitHub Stats">
     </td>
     <td align="center" style="border: none; background: transparent;">
