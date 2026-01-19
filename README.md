@@ -92,4 +92,7 @@ I'm always open to discussing innovative embedded solutions, IoT projects, or po
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Harsha-vardhan-katuri&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Harsha-vardhan-katuri&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-vardhan-katuri&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Harsha-vardhan-katuri&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Harsha-vardhan-katuri&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-vardhan-katuri&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
