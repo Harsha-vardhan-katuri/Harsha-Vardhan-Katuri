@@ -93,15 +93,15 @@ I'm always open to discussing innovative embedded solutions, IoT projects, or po
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Harsha-vardhan-katuri&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=Harsha-vardhan-katuri&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&bg_color=transparent" alt="GitHub Stats">
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-vardhan-katuri&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-vardhan-katuri&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=transparent" alt="Top Languages">
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Harsha-vardhan-katuri&theme=midnight-purple&hide_border=false" alt="GitHub Streak">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Harsha-vardhan-katuri&theme=midnight-purple&hide_border=true&bg_color=transparent" alt="GitHub Streak">
     </td>
   </tr>
 </table>
