@@ -9,10 +9,10 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00C851?style=flat&logo=github&logoColor=white" alt="Open to Work" />
   <img src="https://img.shields.io/badge/Location-India-FF6B35?style=flat&logo=google-maps&logoColor=white" alt="Location" />
 </div>
-
+/*
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Harsha-vardhan-katuri&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
+*/
 # 💫 About Me
 
 I'm a dedicated **Embedded/Firmware Engineer** specializing in developing robust firmware for medical and IoT devices. My expertise spans sensor interfacing, BLE communication, register-level programming, and embedded C/C++ development.
@@ -69,12 +69,24 @@ A showcase of my embedded engineering projects, including IoT solutions and firm
 | **Tools & Technologies** | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/> |
 | **Web Technologies** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> |
 
+## 🎓 Education
+
+- **Bachelor of Technology in Electronics and Communication Engineering**  
+  Jawaharlal Nehru Technological University, Hyderabad (2019-2023)  
+  *Relevant Coursework: Embedded Systems, Digital Electronics, Microcontrollers, IoT, Signal Processing*
+
+## 🏆 Key Achievements and Certifications
+
+- **Embedded Systems Certification** - [View Certificate](https://drive.google.com/file/d/1example/view?usp=drivesdk)  
+- **IoT Fundamentals** - Coursera (2023)  
+- **BLE Protocol Specialist** - [View Certificate](https://drive.google.com/file/d/1example2/view?usp=drivesdk)
+
 ## 🌐 Connect with me:
 
 I'm always open to discussing innovative embedded solutions, IoT projects, or potential collaborations. Feel free to reach out!
 
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/harsha-vardhan-katuri-772166256/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/harsha-vardhan-katuri-772166256/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:katuriharshavardhan369@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Harsha-vardhan-katuri" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/1pACp9kZzcZYo4HuaHVCS2jDJx8cQUKrf/view?usp=drivesdk" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?logo=googledrive&logoColor=white" alt="Resume" /></a>
