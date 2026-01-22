@@ -9,10 +9,10 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00C851?style=flat&logo=github&logoColor=white" alt="Open to Work" />
   <img src="https://img.shields.io/badge/Location-India-FF6B35?style=flat&logo=google-maps&logoColor=white" alt="Location" />
 </div>
-/*
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Harsha-vardhan-katuri&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-*/
+
 # 💫 About Me
 
 I'm a dedicated **Embedded/Firmware Engineer** specializing in developing robust firmware for medical and IoT devices. My expertise spans sensor interfacing, BLE communication, register-level programming, and embedded C/C++ development.
