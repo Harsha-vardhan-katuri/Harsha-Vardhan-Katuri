@@ -76,10 +76,12 @@ A showcase of my embedded engineering projects, including IoT solutions and firm
   *Relevant Coursework: Embedded Systems, Digital Electronics, Microcontrollers, IoT, Signal Processing*
 
 ## 🏆 Key Achievements and Certifications
-
-- **Embedded Systems Certification** - [View Certificate](https://drive.google.com/file/d/1example/view?usp=drivesdk)  
-- **IoT Fundamentals** - Coursera (2023)  
-- **BLE Protocol Specialist** - [View Certificate](https://drive.google.com/file/d/1example2/view?usp=drivesdk)
+- Secured a 91% in the JEE Mains exam, outperforming thousands of candidates, and ranked as the top student in Intermediate, showcasing the ability to solve complex problems and deliver effective solutions.
+- **Certifications:**
+  - [AI Internship Certification](https://drive.google.com/file/d/1UpvhADPt5PcDh8cPJHmpB-EW0ofB0OtL/view?usp=drive_link) 
+  - [Python Programming Certification](https://courses.cognitiveclass.ai/certificates/ff744a4f960545bab835641ae193310f)
+  - [Advanced Embedded Systems Certification](https://drive.google.com/file/d/1SYoyuzSusxvReLb4P6XKZbM8zdqWSdhv/view?usp=drive_link)
+  - [Linux Device Drivers Certification](https://engineers.inpyjama.com/learn/certificate/10217518-196174)
 
 ## 🌐 Connect with me:
 
