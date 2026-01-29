@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/badge/Location-India-FF6B35?style=flat&logo=google-maps&logoColor=white" alt="Location" />
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Harsha-vardhan-katuri&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 # 💫 About Me
 
