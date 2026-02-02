@@ -77,10 +77,9 @@ A showcase of my embedded engineering projects, including IoT solutions and firm
 - Secured a 91% in the JEE Mains exam, outperforming thousands of candidates, and ranked as the top student in Intermediate, showcasing the ability to solve complex problems and deliver effective solutions.
 
 ## 📜 Certifications
--  AI Internship Certification - [Link](https://drive.google.com/file/d/1UpvhADPt5PcDh8cPJHmpB-EW0ofB0OtL/view?usp=drive_link) 
--  Python Programming Certification - [Link](https://courses.cognitiveclass.ai/certificates/ff744a4f960545bab835641ae193310f)
--  Advanced Embedded Systems Certification - [Link](https://drive.google.com/file/d/1SYoyuzSusxvReLb4P6XKZbM8zdqWSdhv/view?usp=drive_link)
--  Linux Device Drivers Certification - [Link](https://engineers.inpyjama.com/learn/certificate/10217518-196174)
+-  AI Internship Certification by Edunet Foundation- [Link](https://drive.google.com/file/d/1UpvhADPt5PcDh8cPJHmpB-EW0ofB0OtL/view?usp=drive_link)
+-  Advanced Embedded Systems Certification by Vector India - [Link](https://drive.google.com/file/d/1SYoyuzSusxvReLb4P6XKZbM8zdqWSdhv/view?usp=drive_link)
+-  Linux Device Drivers Certification - [Link](https://drive.google.com/file/d/1gkV6Pg4lFr8y9v-sqgLuZAUI6pbLSU66/view?usp=drive_link)
 
 ## 🌐 Connect with me:
 
