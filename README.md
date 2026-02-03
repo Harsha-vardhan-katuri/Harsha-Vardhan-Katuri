@@ -89,7 +89,7 @@ I'm always open to discussing innovative embedded solutions, IoT projects, or po
   <a href="https://www.linkedin.com/in/harsha-vardhan-katuri-772166256/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:katuriharshavardhan369@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Harsha-vardhan-katuri" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/16GCvIOaVr2s9yuVDFo6dDYoq7LEF74ge/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?logo=googledrive&logoColor=white" alt="Resume" /></a>
+  <a href="https://drive.google.com/file/d/1nAYXzqJO1V6gOzz2qTYut2nFONDB5xV7/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?logo=googledrive&logoColor=white" alt="Resume" /></a>
 </p>
 
 ---
