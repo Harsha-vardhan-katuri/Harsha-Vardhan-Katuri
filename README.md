@@ -16,7 +16,7 @@
 I'm a dedicated **Embedded/Firmware Engineer** specializing in developing robust firmware for medical and IoT devices. My expertise spans sensor interfacing, BLE communication, register-level programming, and embedded C/C++ development.
 
 ### 🚀 What I'm Currently Working On
-- Firmware development and bug fixing for a company new embedded product
+- Firmware development and bug fixing for a current company new embedded product
 - Sensor integration and BLE communication protocols
 - Low-power embedded system design
 
