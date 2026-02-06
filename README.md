@@ -31,10 +31,7 @@ I'm a dedicated **Embedded/Firmware Engineer** specializing in developing robust
 - Docker for firmware applications
 - Scalable IoT architectures
 
-### 💬 Ask Me About
-- Embedded C/C++, ESP32/ESP8266, Arduino, LPC2148
-- BLE, IoT protocols (UART, SPI, I2C, TCP/IP)
-- Sensor integration and firmware debugging
+
 
 ### ⚡ Fun Fact
 I enjoy turning raw sensor data into reliable real-world solutions through efficient firmware design.
