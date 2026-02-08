@@ -25,7 +25,11 @@ I'm a dedicated **Embedded/Firmware Engineer** specializing in developing robust
 - BLE/LoRa-based communication projects
 - Hardware-firmware integration
 
-
+### 🌱 Currently Learning
+- Advanced BLE protocols
+- Linux for embedded systems
+- Docker for firmware applications
+- Scalable IoT architectures
 
 ### 💬 Ask Me About
 - Embedded C/C++, ESP32/ESP8266, Arduino, LPC2148
