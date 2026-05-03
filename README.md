@@ -47,7 +47,7 @@ I enjoy turning raw sensor data into reliable real-world solutions through effic
 
 ## 🚀 Featured Projects
 
-### 🌐 [My Portfolio Website](https://portfolio-blush-eight-42.vercel.app/)
+### 🌐 [My Portfolio Website](https://k-harsha-v-portfolio.lovable.app)
 A showcase of my embedded engineering projects, including IoT solutions and firmware developments.
 
 *(Check my repositories for detailed code implementations)*
