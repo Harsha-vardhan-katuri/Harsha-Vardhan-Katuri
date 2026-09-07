@@ -1,450 +1,177 @@
-<h1 align="center">Hi 👋, I'm Harsha Vardhan Katuri</h1>
+\<h1 align="center">Hi 👋, I'm Harsha Vardhan Katuri\</h1>
 
-<div align="center">
+\<div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&color=0e75b6&center=true&vCenter=true&width=650&height=50&lines=Firmware+Engineer+%7C+Embedded+Systems+Engineer;Embedded+Linux+%7C+Embedded+C+%7C+C%2B%2B;Medical+Devices+%7C+IoT+%7C+Hardware-Firmware+Integration" alt="Typing SVG" />
+  \<img src="[https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&color=0e75b6&center=true&vCenter=true&width=500&height=50&lines=Embedded+Engineer+%7C+Firmware+Engineer](https://readme-typing-svg.herokuapp.com/?font=Fira+Code\&size=22\&color=0e75b6\&center=true\&vCenter=true\&width=500\&height=50\&lines=Embedded+Engineer+%7C+Firmware+Engineer)" alt="Typing SVG" />
 
-</div>
+\</div>
 
-<div align="center">
+\<div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=Harsha-vardhan-katuri&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  \<img src="[https://komarev.com/ghpvc/?username=Harsha-vardhan-katuri&label=Profile%20views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=Harsha-vardhan-katuri\&label=Profile%20views\&color=0e75b6\&style=flat)" alt="Profile views" />
 
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00C851?style=flat&logo=github&logoColor=white" alt="Open to Work" />
+  \<img src="[https://img.shields.io/badge/Status-Open%20to%20Work-00C851?style=flat&logo=github&logoColor=white](https://img.shields.io/badge/Status-Open%20to%20Work-00C851?style=flat\&logo=github\&logoColor=white)" alt="Open to Work" />
 
-  <img src="https://img.shields.io/badge/Focus-Firmware%20%26%20Embedded-0e75b6?style=flat" alt="Firmware Focus" />
+  \<img src="[https://img.shields.io/badge/Location-India-FF6B35?style=flat&logo=google-maps&logoColor=white](https://img.shields.io/badge/Location-India-FF6B35?style=flat\&logo=google-maps\&logoColor=white)" alt="Location" />
 
-  <img src="https://img.shields.io/badge/Location-India-FF6B35?style=flat&logo=google-maps&logoColor=white" alt="Location" />
+\</div>
 
-</div>
 
----
 
-# 💫 About Me
+**# 💫 About Me**
 
-I'm a dedicated **Firmware Engineer** with around **1.6 years of experience** developing embedded firmware, application middleware, and hardware-integrated systems.
+I'm a dedicated **\*\*Embedded/Firmware Engineer\*\*** specializing in developing robust firmware for medical and IoT devices. My expertise spans sensor interfacing, BLE communication, register-level programming, and embedded C/C++ development.
 
-My primary focus is **Embedded C/C++, Embedded Linux, hardware-firmware integration, communication protocols, debugging, and low-level system development**.
+**### 🚀 What I'm Currently Working On**
 
-Currently working on **medical diagnostic systems**, developing firmware features, debugging device workflows, analyzing protocols, and improving system reliability.
+\- Firmware development and bug fixing for a current company new embedded product
 
-I enjoy working close to the hardware — from **board bring-up and signal analysis to packet parsing and firmware debugging**.
+\- Sensor integration and BLE communication protocols
 
-### 🚀 What I'm Currently Working On
+\- Low-power embedded system design
 
-- Firmware development and debugging for a new embedded product
-- Embedded Linux application middleware and multithreaded applications
-- Medical diagnostic device firmware
-- Sensor and peripheral integration
-- UART, USB, Ethernet and RS485 communication
-- Firmware debugging, log analysis and root-cause analysis
-- Hardware-firmware integration and board bring-up
+**### 🤝 Collaboration Interests**
 
-### 🤝 Collaboration Interests
+\- Embedded systems and IoT solutions
 
-- Embedded systems and IoT solutions
-- Embedded Linux and firmware projects
-- BLE / LoRa communication projects
-- Hardware-firmware integration
-- Sensor-based embedded systems
+\- BLE/LoRa-based communication projects
 
-### 🌱 Currently Learning
+\- Hardware-firmware integration
 
-- Advanced Embedded Linux
-- Linux Device Drivers
-- RTOS / FreeRTOS
-- Advanced BLE
-- Embedded networking
-- Low-level system design
-- Docker for embedded applications
+**### 🌱 Currently Learning**
 
-### 💬 Ask Me About
+\- Advanced BLE protocols
 
-- Embedded C/C++
-- Embedded Linux
-- ESP32 / ESP8266 / LPC2148
-- UART / SPI / I2C
-- RS485 / Modbus RTU
-- BLE / LoRa
-- Sensor integration
-- Firmware debugging
-- Board bring-up
-- POSIX Threads / Multithreading
+\- Linux for embedded systems
 
-### ⚡ Fun Fact
+\- Docker for firmware applications
 
-I enjoy turning raw sensor data and hardware signals into reliable real-world solutions through efficient firmware design.
+\- Scalable IoT architectures
 
----
+**### 💬 Ask Me About**
 
-# 🚀 Featured Projects
+\- Embedded C/C++, ESP32/ESP8266, Arduino, LPC2148
 
-### 🏥 HC-XL Medical Diagnostic Firmware
+\- BLE, IoT protocols (UART, SPI, I2C, TCP/IP, Ethernet, wifi)
 
-**Embedded Linux | C | POSIX Threads | Middleware | Medical Devices**
+\- Sensor integration and firmware debugging
 
-Worked on embedded firmware and application middleware for a multi-parameter medical diagnostic platform.
+**### ⚡ Fun Fact**
 
-- Developed and enhanced firmware functionality across multiple diagnostic modules
-- Worked with POSIX threads and multithreaded application architecture
-- Debugged SpO₂ detection and sensor connection/disconnection handling
-- Improved buffer management and protocol validation
-- Debugged Lipid measurement data transmission and boundary-value handling
-- Performed log analysis, issue reproduction and root-cause analysis
-- Supported firmware verification and hardware-level debugging
+I enjoy turning raw sensor data into reliable real-world solutions through efficient firmware design.
 
----
+\---
 
-### 🌱 LoRa Soil Health Monitoring System
+*\*"Code is poetry written in logic, and firmware is the heartbeat of innovation."\**
 
-**ESP32 | Embedded C | RS485 | Modbus RTU | LoRa**
+\---
 
-Developed a soil monitoring system using an RS485-based 7-in-1 soil sensor with ESP32 and LoRa communication.
+**## 🚀 Featured Projects**
 
-**Measured Parameters:**
+**### 🌐 [My Portfolio Website]\(**[https://portfolio-blush-eight-42.vercel.app/](https://portfolio-blush-eight-42.vercel.app/)**)**
 
-`NPK` · `pH` · `EC` · `Moisture` · `Temperature`
+A showcase of my embedded engineering projects, including IoT solutions and firmware developments.
 
-Implemented:
+*\*(Check my repositories for detailed code implementations)\**
 
-- Modbus RTU communication
-- Binary packet processing
-- Sensor integration
-- LoRa wireless transmission
-- Real-time parameter monitoring
+**### 📊 GitHub Activity**
 
----
+\<!--START\_SECTION\:activity-->
 
-### 📡 BLE Packet Parser
+\<!--END\_SECTION\:activity-->
 
-**Embedded C | BLE | Packet Parsing | Unit Testing**
+*\*(Activity updates automatically)\**
 
-Developed a modular Embedded C project for parsing BLE advertisement packets.
+**## 🛠️ Skills & Technologies**
 
-- BLE advertisement packet parsing
-- iBeacon packet detection
-- Accelerometer data extraction
-- Motion detection
-- Unit testing
-- Makefile-based build system
-- Doxygen documentation
+\| Category | Technologies |
 
-🔗 **GitHub:**  
-https://github.com/Harsha-vardhan-katuri
+\|----------|-------------|
 
----
+\| **\*\*Programming Languages\*\*** | \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)" width="40" height="40"/> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)" width="40" height="40"/> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)" width="40" height="40"/> |
 
-### 🧠 GSR Sensor Monitoring System
+\| **\*\*Embedded Systems & IoT\*\*** | \<img src="[https://cdn.worldvectorlogo.com/logos/arduino-1.svg](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)" width="40" height="40"/> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg)" width="40" height="40"/> |
 
-**ESP32 | Embedded C | ADC | Signal Processing**
+\| **\*\*Tools & Technologies\*\*** | \<img src="[https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)" width="40" height="40"/> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)" width="40" height="40"/> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)" width="40" height="40"/> \<img src="[https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg)" width="40" height="40"/> \<img src="[https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)" width="40" height="40"/> |
 
-Developed a real-time Galvanic Skin Response monitoring prototype using ESP32.
+\| **\*\*Web Technologies\*\*** | \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)" width="40" height="40"/> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)" width="40" height="40"/> |
 
-Implemented:
+**## 🎓 Education**
 
-- ADC signal acquisition
-- Skin resistance calculation
-- Conductance conversion
-- Tonic and phasic signal analysis
-- Basic stress-state classification
-- Serial data visualization
+\- **\*\*Bachelor of Technology in Electronics and Communication Engineering\*\***  
 
----
+  Jawaharlal Nehru Technological University, Hyderabad (2019-2023)  
 
-### 🤖 AI Health Assistant
+  *\*Relevant Coursework: Embedded Systems, Digital Electronics, Microcontrollers, IoT, Signal Processing\**
 
-**Python | Streamlit | Hugging Face | NLP**
+**## 🏆 Key Achievements**
 
-Developed an AI-based health assistant chatbot during an AI internship.
+\- Secured a 91% in the JEE Mains exam, outperforming thousands of candidates, and ranked as the top student in Intermediate, showcasing the ability to solve complex problems and deliver effective solutions.
 
-Implemented:
+**## 📜 Certifications**
 
-- NLP preprocessing
-- Intent classification
-- Keyword-based matching
-- Transformer-based response generation
-- Streamlit interface
+\-  AI Internship Certification by Edunet Foundation- [Link]\([https://drive.google.com/file/d/1UpvhADPt5PcDh8cPJHmpB-EW0ofB0OtL/view?usp=drive\_link](https://drive.google.com/file/d/1UpvhADPt5PcDh8cPJHmpB-EW0ofB0OtL/view?usp=drive_link))
 
----
+\-  Advanced Embedded Systems Certification by Vector India - [Link]\([https://drive.google.com/file/d/1SYoyuzSusxvReLb4P6XKZbM8zdqWSdhv/view?usp=drive\_link](https://drive.google.com/file/d/1SYoyuzSusxvReLb4P6XKZbM8zdqWSdhv/view?usp=drive_link))
 
-# 🛠️ Skills & Technologies
+\-  Linux Device Drivers Certification - [Link]\([https://drive.google.com/file/d/1gkV6Pg4lFr8y9v-sqgLuZAUI6pbLSU66/view?usp=drive\_link](https://drive.google.com/file/d/1gkV6Pg4lFr8y9v-sqgLuZAUI6pbLSU66/view?usp=drive_link))
 
-<table>
-<tr>
+**## 🌐 Connect with me:**
 
-<td align="center" width="180">
+I'm always open to discussing innovative embedded solutions, IoT projects, or potential collaborations. Feel free to reach out!
 
-<b>Programming</b>
+\<p align="left">
 
-</td>
+  \<a href="[https://www.linkedin.com/in/harsha-vardhan-katuri-772166256/](https://www.linkedin.com/in/harsha-vardhan-katuri-772166256/)" target="\_blank">\<img src="[https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)" alt="LinkedIn" />\</a>&nbsp;&nbsp;&nbsp;
 
-<td>
+  \<a href="mailto\:katuriharshavardhan369\@gmail.com">\<img src="[https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)" alt="Email" />\</a>&nbsp;&nbsp;&nbsp;
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+  \<a href="[https://github.com/Harsha-vardhan-katuri](https://github.com/Harsha-vardhan-katuri)" target="\_blank">\<img src="[https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white](https://img.shields.io/badge/GitHub-100000?logo=github\&logoColor=white)" alt="GitHub" />\</a>&nbsp;&nbsp;&nbsp;
 
-</td>
+  \<a href="[https://drive.google.com/file/d/18dgIRCN0l6gtPTcHtlauA6x-\_j8\_E5-x/view?usp=drive\_link](https://drive.google.com/file/d/18dgIRCN0l6gtPTcHtlauA6x-_j8_E5-x/view?usp=drive_link)" target="\_blank">\<img src="[https://img.shields.io/badge/Resume-4285F4?logo=googledrive&logoColor=white](https://img.shields.io/badge/Resume-4285F4?logo=googledrive\&logoColor=white)" alt="Resume" />\</a>
 
-</tr>
+\</p>
 
-<tr>
+\---
 
-<td align="center">
+**## 🎯 Fun Facts**
 
-<b>Embedded</b>
+\- ☕ Fueled by coffee and curiosity
 
-</td>
+\- 🔧 I can debug code faster than I can debug my sleep schedule
 
-<td>
+\- 🌟 Turning "impossible" into "I'm possible" one line of code at a time
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
+\---
 
-</td>
+**# 📊 GitHub Stats:**
 
-</tr>
+\<table align="center" border="0" cellspacing="0" cellpadding="0" style="border: none; background: transparent;">
 
-<tr>
+  \<tr>
 
-<td align="center">
+    \<td align="center" style="border: none; background: transparent; padding: 0;">
 
-<b>Microcontrollers</b>
+      \<img src="[https://github-readme-stats.vercel.app/api?username=Harsha-vardhan-katuri&theme=midnight-purple&hide\_border=true&include\_all\_commits=false&count\_private=false&bg\_color=000000](https://github-readme-stats.vercel.app/api?username=Harsha-vardhan-katuri\&theme=midnight-purple\&hide_border=true\&include_all_commits=false\&count_private=false\&bg_color=000000)" alt="GitHub Stats">
 
-</td>
+    \</td>
 
-<td>
+    \<td align="center" style="border: none; background: transparent; padding: 0;">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/espressif/espressif-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="45" height="45"/>
+      \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-vardhan-katuri&theme=midnight-purple&hide\_border=true&include\_all\_commits=false&count\_private=false&layout=compact&bg\_color=000000](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-vardhan-katuri\&theme=midnight-purple\&hide_border=true\&include_all_commits=false\&count_private=false\&layout=compact\&bg_color=000000)" alt="Top Languages">
 
-&nbsp;&nbsp;ESP32 &nbsp; ESP8266 &nbsp; LPC2148
+    \</td>
 
-</td>
+  \</tr>
 
-</tr>
+  \<tr>
 
-<tr>
+    \<td colspan="2" align="center" style="border: none; background: transparent; padding: 0;">
 
-<td align="center">
+      \<img src="[https://nirzak-streak-stats.vercel.app/?user=Harsha-vardhan-katuri&theme=midnight-purple&hide\_border=true&bg\_color=000000](https://nirzak-streak-stats.vercel.app/?user=Harsha-vardhan-katuri\&theme=midnight-purple\&hide_border=true\&bg_color=000000)" alt="GitHub Streak">
 
-<b>Communication</b>
+    \</td>
 
-</td>
+  \</tr>
 
-<td>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bluetooth/bluetooth-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
-
-&nbsp;&nbsp;UART &nbsp; SPI &nbsp; I2C &nbsp; RS485 &nbsp; Modbus RTU &nbsp; USB &nbsp; Ethernet &nbsp; BLE &nbsp; LoRa
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<b>Systems</b>
-
-</td>
-
-<td>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
-
-&nbsp;&nbsp;Embedded Linux &nbsp; POSIX Threads &nbsp; Multithreading &nbsp; U-Boot &nbsp; Boot Process &nbsp; Device Drivers
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<b>Debugging</b>
-
-</td>
-
-<td>
-
-🔧 Firmware Debugging &nbsp; 🔍 Root Cause Analysis &nbsp; 📟 Protocol Analysis &nbsp; 📊 Log Analysis
-
-<br>
-
-📡 Logic Analyzer &nbsp; 📈 Oscilloscope &nbsp; 🔌 Board Bring-up &nbsp; ⚡ Voltage Testing
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<b>Tools</b>
-
-</td>
-
-<td>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
-
-<br>
-
-Git &nbsp; GitHub &nbsp; GitLab &nbsp; VS Code &nbsp; Eclipse &nbsp; Keil &nbsp; Arduino IDE &nbsp; Make &nbsp; Doxygen
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<b>IoT & Cloud</b>
-
-</td>
-
-<td>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-
-&nbsp;&nbsp;LoRa &nbsp; IoT &nbsp; ThingSpeak &nbsp; TCP/IP &nbsp; Sensor Networks
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🎓 Education
-
-### Bachelor of Technology in Electronics and Communication Engineering
-
-**Jawaharlal Nehru Technological University, Hyderabad**
-
-**2019 – 2023**
-
-Relevant Coursework:
-
-`Embedded Systems` · `Digital Electronics` · `Microcontrollers` · `IoT` · `Signal Processing`
-
----
-
-# 🏆 Key Achievement
-
-- Secured **91% in JEE Mains**, demonstrating strong problem-solving and analytical ability.
-
----
-
-# 📜 Certifications
-
-- **Advanced Embedded Systems Certification** — Vector India
-- **Linux Device Drivers Certification**
-- **AI Internship Certification** — Edunet Foundation
-
-🔗 [AI Internship Certificate](https://drive.google.com/file/d/1UpvhADPt5PcDh8cPJHmpB-EW0ofB0OtL/view?usp=drive_link)
-
-🔗 [Advanced Embedded Systems Certificate](https://drive.google.com/file/d/1SYoyuzSusxvReLb4P6XKZbM8zdqWSdhv/view?usp=drive_link)
-
-🔗 [Linux Device Drivers Certificate](https://drive.google.com/file/d/1gkV6Pg4lFr8y9v-sqgLuZAUI6pbLSU66/view?usp=drive_link)
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/harsha-vardhan-katuri-772166256/" target="_blank">
-
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:katuriharshavardhan369@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
-
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/Harsha-vardhan-katuri" target="_blank">
-
-<img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub" />
-
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://drive.google.com/file/d/18dgIRCN0l6gtPTcHtlauA6x-_j8_E5-x/view?usp=drive_link" target="_blank">
-
-<img src="https://img.shields.io/badge/Resume-4285F4?logo=googledrive&logoColor=white" alt="Resume" />
-
-</a>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-
-<tr>
-
-<td align="center" style="border: none; background: transparent; padding: 0;">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Harsha-vardhan-katuri&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&bg_color=000000" alt="GitHub Stats">
-
-</td>
-
-<td align="center" style="border: none; background: transparent; padding: 0;">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-vardhan-katuri&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=000000" alt="Top Languages">
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2" align="center" style="border: none; background: transparent; padding: 0;">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Harsha-vardhan-katuri&theme=midnight-purple&hide_border=true&bg_color=000000" alt="GitHub Streak">
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# ☕ Fun Facts
-
-- ☕ Fueled by coffee and curiosity
-- 🔧 I enjoy debugging problems close to the hardware
-- 🧠 Always exploring how software interacts with hardware
-- 🚀 Turning low-level problems into reliable embedded solutions
-
----
-
-<p align="center">
-
-### "Build close to the hardware. Debug with evidence. Engineer for reliability."
-
-</p>
+\</table>
