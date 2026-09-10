@@ -11,33 +11,43 @@
 </div>
 
 
-# 💫 About Me
+## 💫 About Me
 
-I'm a dedicated **Embedded/Firmware Engineer** specializing in developing robust firmware for medical and IoT devices. My expertise spans sensor interfacing, BLE communication, register-level programming, and embedded C/C++ development.
+I'm a dedicated **Embedded/Firmware Engineer** with around **1.8 years of experience** specializing in developing robust firmware and application middleware for embedded systems. My expertise spans sensor interfacing, communication protocols, embedded Linux, POSIX threads, register-level programming, and embedded C/C++ development.
 
 ### 🚀 What I'm Currently Working On
-- Firmware development and bug fixing for a current company new embedded product
-- Sensor integration and BLE communication protocols
-- Low-power embedded system design
+
+* Firmware development and bug fixing for current company embedded products
+* Embedded Linux firmware and application middleware development
+* Multithreaded applications using POSIX threads
+* Sensor integration and communication protocols
+* Hardware-firmware integration, board bring-up, and debugging
 
 ### 🤝 Collaboration Interests
-- Embedded systems and IoT solutions
-- BLE/LoRa-based communication projects
-- Hardware-firmware integration
+
+* Embedded systems and IoT solutions
+* BLE/LoRa-based communication projects
+* Hardware-firmware integration
 
 ### 🌱 Currently Learning
-- Advanced BLE protocols
-- Linux for embedded systems
-- Docker for firmware applications
-- Scalable IoT architectures
+
+* Advanced BLE protocols
+* Linux and Embedded Linux systems
+* RTOS / FreeRTOS
+* Linux Device Drivers
+* Docker for embedded applications
+* Scalable IoT architectures
 
 ### 💬 Ask Me About
-- Embedded C/C++, ESP32/ESP8266, Arduino, LPC2148
-- BLE, IoT protocols (UART, SPI, I2C, TCP/IP, Ethernet, wifi)
-- Sensor integration and firmware debugging
+
+* Embedded C/C++, ESP32/ESP8266, Arduino, LPC2148
+* Embedded Linux, POSIX Threads, Multithreading
+* BLE, IoT protocols (UART, SPI, I2C, RS485, Modbus RTU, TCP/IP, Ethernet, Wi-Fi)
+* Sensor integration, firmware debugging, board bring-up, and protocol analysis
 
 ### ⚡ Fun Fact
-I enjoy turning raw sensor data into reliable real-world solutions through efficient firmware design.
+
+I enjoy turning raw sensor data and hardware signals into reliable real-world solutions through efficient firmware design.
 
 ---
 
