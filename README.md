@@ -18,9 +18,19 @@ I'm a dedicated **Embedded/Firmware Engineer** with around **1.8 years of experi
 ### 🚀 What I'm Currently Working On
 
 * Firmware development and bug fixing for current company embedded products
+
 * Embedded Linux firmware and application middleware development
+
 * Multithreaded applications using POSIX threads
+
+* **SpO₂ Respiratory Rate:** Processing waveform data received from the **SpO₂ (pulse oximetry) module** to calculate **Respiratory Rate (RR)** in **breaths per minute**.
+
+* **ECG Signal Processing & Live Graph:** Working on **ECG signal-strength handling and introduction delay** to stabilize the ECG waveform, analyzing raw ECG module data in **MATLAB** to validate the application graph, and integrating **live ECG graph generation**.
+
+* **Bluetooth Module Migration:** Migrating the existing Bluetooth implementation from **BT122 to BM78**, including the required firmware communication and module-integration changes.
+
 * Sensor integration and communication protocols
+
 * Hardware-firmware integration, board bring-up, and debugging
 
 ### 🤝 Collaboration Interests
