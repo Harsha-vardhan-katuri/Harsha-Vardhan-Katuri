@@ -386,63 +386,59 @@ def main():
     to_date = now.strftime("%Y-%m-%dT%H:%M:%SZ")
 
     query = """
-    query($login: String!, $from: DateTime!, $to: DateTime!) {
-      user(login: $login) {
-        repositories(
-          ownerAffiliations: OWNER,
-          privacy: PUBLIC,
-          first: 1
-        ) {
-          totalCount
-        }
+query($login: String!, $from: DateTime!, $to: DateTime!) {
+  user(login: $login) {
+    repositories(
+      ownerAffiliations: OWNER,
+      privacy: PUBLIC,
+      first: 100
+    ) {
+      totalCount
 
-        followers {
-          totalCount
-        }
-
-        following {
-          totalCount
-        }
-
-        contributionsCollection(
-          from: $from,
-          to: $to
-        ) {
-          totalCommitContributions
-          totalIssueContributions
-          totalPullRequestContributions
-          totalPullRequestReviewContributions
-          contributionCalendar {
-            totalContributions
-            weeks {
-              contributionDays {
-                date
-                contributionCount
-              }
-            }
-          }
-        }
-
-        repositories(
-          ownerAffiliations: OWNER,
-          privacy: PUBLIC,
-          first: 100
-        ) {
-          nodes {
-            name
-            languages(first: 10, orderBy: {field: SIZE, direction: DESC}) {
-              edges {
-                size
-                node {
-                  name
-                }
-              }
+      nodes {
+        name
+        languages(first: 10, orderBy: {field: SIZE, direction: DESC}) {
+          edges {
+            size
+            node {
+              name
             }
           }
         }
       }
     }
-    """
+
+    followers {
+      totalCount
+    }
+
+    following {
+      totalCount
+    }
+
+    contributionsCollection(
+      from: $from,
+      to: $to
+    ) {
+      totalCommitContributions
+      totalIssueContributions
+      totalPullRequestContributions
+      totalPullRequestReviewContributions
+
+      contributionCalendar {
+        totalContributions
+
+        weeks {
+          contributionDays {
+            date
+            contributionCount
+          }
+        }
+      }
+    }
+  }
+}
+"""
 
     data = github_graphql(
         query,
