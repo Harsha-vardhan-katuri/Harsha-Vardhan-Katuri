@@ -11,9 +11,9 @@
 </div>
 
 
-## 💫 About Me
+# 💫 About Me
 
-I'm a dedicated **Embedded/Firmware Engineer** with around **1.8 years of experience** specializing in developing robust firmware and application middleware for embedded systems. My expertise spans sensor interfacing, communication protocols, embedded Linux, POSIX threads, register-level programming, and embedded C/C++ development.
+I'm a dedicated **Embedded/Firmware Engineer** with around **1.8 years of experience** specializing in developing robust firmware and application middleware for embedded systems. My expertise spans sensor interfacing, communication protocols, embedded Linux, POSIX threads, register-level programming, signal processing, and embedded C/C++ development.
 
 ### 🚀 What I'm Currently Working On
 
@@ -35,16 +35,21 @@ I'm a dedicated **Embedded/Firmware Engineer** with around **1.8 years of experi
 
 ### 🤝 Collaboration Interests
 
-* Embedded systems and IoT solutions
-* BLE/LoRa-based communication projects
+* Embedded firmware and embedded Linux projects
+* IoT and sensor-based embedded systems
+* BLE / LoRa communication projects
 * Hardware-firmware integration
+* Signal acquisition, processing, and visualization
+* Low-level firmware and protocol development
 
 ### 🌱 Currently Learning
 
-* Advanced BLE protocols
+* Advanced BLE protocols and Bluetooth module integration
 * Linux and Embedded Linux systems
 * RTOS / FreeRTOS
 * Linux Device Drivers
+* Embedded signal processing
+* Real-time data acquisition and visualization
 * Docker for embedded applications
 * Scalable IoT architectures
 
@@ -52,7 +57,10 @@ I'm a dedicated **Embedded/Firmware Engineer** with around **1.8 years of experi
 
 * Embedded C/C++, ESP32/ESP8266, Arduino, LPC2148
 * Embedded Linux, POSIX Threads, Multithreading
-* BLE, IoT protocols (UART, SPI, I2C, RS485, Modbus RTU, TCP/IP, Ethernet, Wi-Fi)
+* UART, SPI, I2C, RS485, Modbus RTU, USB, TCP/IP, Ethernet, Wi-Fi
+* BLE, Bluetooth module integration, and LoRa communication
+* SpO₂ waveform data and Respiratory Rate calculation
+* ECG raw-data analysis, MATLAB waveform plotting, and live graph integration
 * Sensor integration, firmware debugging, board bring-up, and protocol analysis
 
 ### ⚡ Fun Fact
