@@ -128,20 +128,34 @@ I'm always open to discussing innovative embedded solutions, IoT projects, or po
 - 🌟 Turning "impossible" into "I'm possible" one line of code at a time
 
 ---
-
 # 📊 GitHub Stats:
+
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border: none; background: transparent;">
+
   <tr>
+
     <td align="center" style="border: none; background: transparent; padding: 0;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Harsha-vardhan-katuri&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&bg_color=000000" alt="GitHub Stats">
+
+      <img src="./github-stats.svg" alt="GitHub Stats">
+
     </td>
+
     <td align="center" style="border: none; background: transparent; padding: 0;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-vardhan-katuri&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=000000" alt="Top Languages">
+
+      <img src="./github-languages.svg" alt="Top Languages">
+
     </td>
+
   </tr>
+
   <tr>
+
     <td colspan="2" align="center" style="border: none; background: transparent; padding: 0;">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Harsha-vardhan-katuri&theme=midnight-purple&hide_border=true&bg_color=000000" alt="GitHub Streak">
+
+      <img src="./github-streak.svg" alt="GitHub Streak">
+
     </td>
+
   </tr>
+
 </table>
