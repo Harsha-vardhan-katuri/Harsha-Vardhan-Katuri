@@ -126,7 +126,7 @@ A showcase of my embedded engineering projects, including IoT solutions and firm
 
 - **Bachelor of Technology in Electronics and Communication Engineering**
 
-  Jawaharlal Nehru Technological University, Hyderabad (2019-2023)
+  Gudlavalleru Engineering College (2019-2023)
 
   *Relevant Coursework: Embedded Systems, Digital Electronics, Microcontrollers, IoT, Signal Processing*
 
