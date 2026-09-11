@@ -169,35 +169,29 @@ I'm always open to discussing innovative embedded solutions, IoT projects, or po
 - 🌟 Turning "impossible" into "I'm possible" one line of code at a time
 
 ---
-
 # 📊 GitHub Stats:
 
-<table align="center" border="0" cellspacing="0" cellpadding="0" style="border: none; background: transparent;">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
 
-  <tr>
+<tr>
+<td align="center">
 
-    <td align="center" style="border: none; background: transparent; padding: 0;">
+<img src="./github-stats.svg" alt="GitHub Stats">
 
-      <img src="./github-stats.svg" alt="GitHub Stats">
+</td>
+<td align="center">
 
-    </td>
+<img src="./github-languages.svg" alt="Top Languages">
 
-    <td align="center" style="border: none; background: transparent; padding: 0;">
+</td>
+</tr>
 
-      <img src="./github-languages.svg" alt="Top Languages">
+<tr>
+<td colspan="2" align="center">
 
-    </td>
+<img src="./github-streak.svg" alt="GitHub Streak">
 
-  </tr>
-
-  <tr>
-
-    <td colspan="2" align="center" style="border: none; background: transparent; padding: 0;">
-
-      <img src="./github-streak.svg" alt="GitHub Streak">
-
-    </td>
-
-  </tr>
+</td>
+</tr>
 
 </table>
