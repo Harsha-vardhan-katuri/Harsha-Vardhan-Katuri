@@ -148,7 +148,7 @@ I'm always open to discussing innovative embedded solutions, IoT projects, or po
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/harsha-vardhan-katuri-772166256/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kharshav" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:katuriharshavardhan369@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;&nbsp;
 
