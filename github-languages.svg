@@ -2,13 +2,13 @@
 <rect width="100%" height="100%" fill="#000000"/>
 <text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="24px" fill="#E6EDF3" font-weight="bold" text-anchor="start">Top Languages</text>
 <text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13px" fill="#8B949E" font-weight="normal" text-anchor="start">Based on languages detected across repositories</text>
-<rect x="30" y="88" width="443.60" height="18" fill="#A371F7"/>
-<rect x="473.60434566498617" y="88" width="151.26" height="18" fill="#58A6FF"/>
-<rect x="624.8626002982319" y="88" width="21.39" height="18" fill="#3FB950"/>
-<rect x="646.2536391393879" y="88" width="10.59" height="18" fill="#F0883E"/>
-<rect x="656.8415820492793" y="88" width="5.29" height="18" fill="#FF7B72"/>
-<rect x="662.135908542214" y="88" width="2.94" height="18" fill="#D2A8FF"/>
-<rect x="665.0727827877582" y="88" width="2.70" height="18" fill="#79C0FF"/>
+<rect x="30" y="88" width="443.57" height="18" fill="#A371F7"/>
+<rect x="473.56751370204285" y="88" width="151.29" height="18" fill="#58A6FF"/>
+<rect x="624.8541352482348" y="88" width="21.40" height="18" fill="#3FB950"/>
+<rect x="646.2491857563118" y="88" width="10.59" height="18" fill="#F0883E"/>
+<rect x="656.8391143248076" y="88" width="5.30" height="18" fill="#FF7B72"/>
+<rect x="662.1344337136283" y="88" width="2.94" height="18" fill="#D2A8FF"/>
+<rect x="665.071858739401" y="88" width="2.70" height="18" fill="#79C0FF"/>
 <circle cx="35" cy="140" r="6" fill="#A371F7"/>
 <text x="50" y="145" font-family="Arial, Helvetica, sans-serif" font-size="14px" fill="#E6EDF3" font-weight="normal" text-anchor="start">TypeScript  69.3%</text>
 <circle cx="355" cy="140" r="6" fill="#58A6FF"/>
