@@ -146,17 +146,17 @@ A showcase of my embedded engineering projects, including IoT solutions and firm
 
 I'm always open to discussing innovative embedded solutions, IoT projects, or potential collaborations. Feel free to reach out!
 
-<p align="left">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/kharshav" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kharshav" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-<a href="mailto:katuriharshavardhan369@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:katuriharshavardhan369@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
 
-<a href="https://github.com/Harsha-vardhan-katuri" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Harsha-vardhan-katuri" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub" /></a>
 
 <a href="https://drive.google.com/file/d/1I0FODNewrQJZLaDkprYU5Y9d5rP7W7jT/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?logo=googledrive&logoColor=white" alt="Resume" /></a>
 
-</p>
+</div>
 
 ---
 
