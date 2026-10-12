@@ -59,7 +59,7 @@ I'm a dedicated **Embedded/Firmware Engineer** with around **1.8 years of experi
 
 - Linux and Embedded Linux systems
 
-- RTOS / FreeRTOS
+- RTOS / FreeRTOS, UEFI
 
 - Linux Device Drivers
 
